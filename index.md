@@ -1,3 +1,0 @@
-## Leo Barros
-
-### Projetos
