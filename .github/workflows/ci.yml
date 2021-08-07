@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
         with:
-          submodules: true  # Fetch Hugo themes (true OR recursive)
+          submodules: false  # Fetch Hugo themes (true OR recursive)
           fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
 
       - name: Setup Hugo
@@ -20,9 +20,9 @@ jobs:
         with:
           hugo-version: 'latest'
           extended: true
-          
+
       - name: Copy the Theme
-        run: git submodule add https://github.com/rhazdon/hugo-theme-hello-friend-ng.git themes/hello-friend-ng
+        run: git clone https://github.com/rhazdon/hugo-theme-hello-friend-ng.git themes/hello-friend-ng
 
       - name: Build
         run: hugo --minify
