@@ -23,8 +23,6 @@ Apliquei ainda mais esse conhecimento quando entrei no time de infraestrutura da
 
 Já caminhando para essa jornada de **DevOps** cheguei na **Globo.com** onde coloquei o meu conhecimento e adquiri vários. E ainda continuo adquirindo. 😃
 
-Gosto: :dog2: :cat2: :coffee:
-
 ---
 Hoje estou focando nas seguintes tecnolgias e estudando sobre:
 
@@ -36,4 +34,3 @@ Hoje estou focando nas seguintes tecnolgias e estudando sobre:
 - Python
 
 Então fique à vontade em explorar o blog.
-
