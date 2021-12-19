@@ -26,7 +26,7 @@ Já caminhando para essa jornada de **DevOps** cheguei na **Globo.com** onde col
 ---
 Hoje estou focando nas seguintes tecnolgias e estudando sobre:
 
-- GCP (Google Cloud Platform)
+- Cloud Pública (AWS, Google Cloud e Azure)
 - Docker
 - Kubernetes
 - Ansible
